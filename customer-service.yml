@@ -6,7 +6,7 @@ spring:
     mongodb:
       uri: mongodb://localhost:27017/banca
   application:
-    name: customer-service
+    name: CustomerService
 eureka:
   client:
     service-url:
